@@ -34,12 +34,11 @@
 ### **Objectives**
 ### Successfully complete this lab by achieving the following learning objectives:
 
-- Create a Directory and Write Your Terraform Code (Write)
-
--- Create a new directory in the cloud_user's home directory to house your Terraform code called terraform_code.
--- Create a new file for your code called main.tf.
--- Add the provided code for creating your VM (as an EC2 instance in AWS) to the main.tf file.
--- Plug the Provided AMI and Subnet ID Values Into Your Code
+1. Create a Directory and Write Your Terraform Code (Write)
+- Create a new directory in the cloud_user's home directory to house your Terraform code called terraform_code.
+- Create a new file for your code called main.tf.
+- Add the provided code for creating your VM (as an EC2 instance in AWS) to the main.tf file.
+- Plug the Provided AMI and Subnet ID Values Into Your Code
 
 Copy the AMI and subnet ID for the VM that have been saved in the resource_ids.txt file on the lab server.
 Paste these values into your code in the main.tf file.
