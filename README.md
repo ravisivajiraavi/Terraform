@@ -23,4 +23,4 @@
 
     ssh cloud_user@<Terraform-Controller>
     
-And, in a web browser, log in to the AWS Management Console using the credentials provided.
+### And, in a web browser, log in to the AWS Management Console using the credentials provided.
