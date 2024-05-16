@@ -25,8 +25,8 @@
     
 #### And, in a web browser, log in to the AWS Management Console using the credentials provided.
 
-## **Description**
-### In this hands-on lab, we will be following the Terraform workflow — Write > Plan > Apply — to deploy a virtual machine (VM) in AWS. After a successful deployment, we will then clean up our infrastructure and destroy the resource we created.
+### **Description**
+#### In this hands-on lab, we will be following the Terraform workflow — Write > Plan > Apply — to deploy a virtual machine (VM) in AWS. After a successful deployment, we will then clean up our infrastructure and destroy the resource we created.
 
 ### **Objectives**
 #### Successfully complete this lab by achieving the following learning objectives:
