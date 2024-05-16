@@ -1,7 +1,7 @@
 # **VM Provisioning**
-## **Deploying a VM in AWS Using the Terraform Workflow**
-## **Additional Resources**
-### To create your EC2 instance (VM) in AWS, use the code provided below:
+**Deploying a VM in AWS Using the Terraform Workflow**
+**Additional Resources**
+To create your EC2 instance (VM) in AWS, use the code provided below:
 
     provider "aws" {
       region = "us-east-1"
